@@ -2,8 +2,8 @@
   "relation": ["delegate_permission/common.handle_all_urls"],
   "target": {
     "namespace": "android_app",
-    "package_name": "com.example.dai.helloworld",
+    "package_name": "com.panasonic.cdd.softapi_androidapplinktest",
     "sha256_cert_fingerprints":
-    ["B0:9B:1C:7D:70:70:BA:B9:DE:61:28:9B:BA:E7:BD:A4:7D:6D:53:F1:B7:D8:50:85:E8:57:DF:64:29:96:A8:A9"]
+    ["94:21:6A:EC:FE:CB:2E:BE:0D:1E:98:19:3C:A4:73:52:1D:2C:1F:36:1C:CA:3F:FA:10:C0:23:F8:85:8F:63:46"]
   }
 }]
